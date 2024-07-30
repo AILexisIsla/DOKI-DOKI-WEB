@@ -532,3 +532,9 @@ header a{
         left: 100%;
     }
 }
+
+.des1{
+    font-size: 1.2em;
+    line-height: 1.5em;
+    color: #ffab2e;
+    text-shadow: 0 5px 10px #0004;}
