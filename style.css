@@ -540,6 +540,7 @@ header a{
     text-shadow: 0 5px 10px #0004;}
 
 .station{
+    z-index: 2;
     font-family: 'ICA Rubrik';
     font-size: 1em;
     line-height: 1em;
@@ -547,6 +548,7 @@ header a{
     text-shadow: 0 5px 10px rgba(0, 0, 0, 0.637);}
 
 .copy{
+    z-index: 2;
     font-family: 'ICA Rubrik';
     font-size: 0.8em;
     line-height: 1em;
