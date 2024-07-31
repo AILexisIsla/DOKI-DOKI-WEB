@@ -552,5 +552,5 @@ header a{
     font-family: 'ICA Rubrik';
     font-size: 0.8em;
     line-height: 1em;
-    color: #f1683a;
+    box-sizing: border-box;
     text-shadow: 0 5px 10px rgba(0, 0, 0, 0.637);}
