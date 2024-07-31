@@ -538,3 +538,11 @@ header a{
     line-height: 1.5em;
     color:  #1b1b1b;
     text-shadow: 0 5px 10px #0004;}
+
+.station{
+    color:  #343333;
+    text-shadow: 0 5px 10px rgba(215, 200, 200, 0.267);}
+
+.copy{
+    color:  #6b6b6b;
+    text-shadow: 0 5px 10px rgba(215, 200, 200, 0.267);}
