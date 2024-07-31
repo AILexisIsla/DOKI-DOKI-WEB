@@ -540,9 +540,15 @@ header a{
     text-shadow: 0 5px 10px #0004;}
 
 .station{
-    color:  #523af1;
+    font-family: 'ICA Rubrik';
+    font-size: 1em;
+    line-height: 1em;
+    color: #25283B;
     text-shadow: 0 5px 10px rgba(0, 0, 0, 0.637);}
 
 .copy{
-    color:  #523af1;
+    font-family: 'ICA Rubrik';
+    font-size: 0.8em;
+    line-height: 1em;
+    color: #25283B;
     text-shadow: 0 5px 10px rgba(0, 0, 0, 0.637);}
