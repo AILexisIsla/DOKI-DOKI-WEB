@@ -544,8 +544,18 @@ header a{
     font-family: 'ICA Rubrik';
     font-size: 1em;
     line-height: 1em;
-    color: #f1683a;
-    text-shadow: 0 5px 10px rgba(0, 0, 0, 0.637);}
+    box-sizing: border-box;
+    text-shadow: 0 5px 10px rgba(0, 0, 0, 0.637);
+    background-color: #D2D2D2;
+    background-image:
+    repeating-linear-gradient(
+        to right, transparent 0 100px,
+        #25283b22 100px 101px
+    ),
+    repeating-linear-gradient(
+        to bottom, transparent 0 100px,
+        #25283b22 100px 101px
+    );}
 
 .copy{
     z-index: 2;
